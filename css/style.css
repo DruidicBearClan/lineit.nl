@@ -59,18 +59,18 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #F5514B;
+    color: #7BC1F5;
     text-decoration: none;
     outline: none;
 }
 
 ::selection {
-    background: #F5514B;
+    background: #7BC1F5;
     color: #FFF;
 }
 
 ::-moz-selection {
-    background: #F5514B;
+    background: #7BC1F5;
     color: #FFF;
 }
 
@@ -97,9 +97,9 @@ input[type="color"],
 .form-control {
     display: inline-block;
     margin-bottom: 20px;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 25px;
-    color: #484444;
+    color: #FFF;
     height: 46px;
     width: 100%;
     vertical-align: middle;
